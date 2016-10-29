@@ -1,0 +1,47 @@
+nav {
+  font-family: sans-serif;
+  background-color: #bbc;
+  font-size: 20px;
+  text-align: center;
+}
+section {
+  text-align: center;
+}
+section p {
+  display: inline-block;
+  margin: 0px 20px;
+  padding: 10px 0;
+  background-color: #eff;
+}
+section img {
+  display: inline-block;
+}
+section img {
+  max-width: 200px
+}
+div ul li {
+  display: inline-block;
+  margin: 0 15px;
+  font-size: 20px;
+}
+div ul {
+  text-align: right;
+}
+div#introduction {
+  max-width: 800px;
+  margin: 60px auto 20px auto ;
+  background-color: #fff;
+  padding: 5px 0;
+}
+div#background {
+  background-image: url("Thai.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+body {
+  background-color: #ddd;
+}
+div#linktogithub {
+  text-align: center;
+  margin: 20px 0;
+}
